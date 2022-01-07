@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 83 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.29702,0,0,1.29686,0.0031914,-0.00311808)">
+        <path d="M63.033,39.744C58.759,56.887 41.396,67.32 24.251,63.045C7.113,58.771 -3.32,41.407 0.956,24.265C5.228,7.12 22.591,-3.314 39.731,0.96C56.875,5.234 67.307,22.6 63.033,39.744Z" style="fill:rgb(35,41,47);fill-rule:nonzero;"/>
+    </g>
+    <g id="XRP-logo" serif:id="XRP logo" transform="matrix(0.100472,0,0,0.100472,15.7792,20.2)">
+        <g id="Vector" transform="matrix(1,0,0,1,0.943848,0)">
+            <path d="M436.043,0L510.096,0L356.029,152.475C300.258,207.67 209.837,207.67 154.067,152.475L0,0L74.053,0L191.093,115.832C226.414,150.788 283.68,150.788 319.002,115.832L436.043,0Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g id="Vector_2" transform="matrix(1,0,0,1,0,229.187)">
+            <path d="M74.053,194.813L0,194.813L155.019,41.396C210.789,-13.799 301.21,-13.799 356.981,41.396L512,194.813L437.947,194.813L319.953,78.039C284.632,43.082 227.366,43.082 192.045,78.039L74.053,194.813Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>
