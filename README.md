@@ -32,7 +32,7 @@ acts in conjuction with CoinTable emits.
 
 ### API Extractions
 
-# Checks prices every 10 seconds
+### Checks prices every 10 seconds
 https://cmd.btcdirect.eu/v2/price-ticker/BTC,ETH,LTC,ADA,XRP,BNB,LINK,DOGE,VET,ALGO,BAT,DASH,BCH,ATOM,ETC,EOS,XMR,XLM,TRX,ZEC
 
 to round difference:
